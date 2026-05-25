@@ -12,7 +12,7 @@ git clone https://github.com/Cope4UrR1ghts/Staxrip-Wine-Installation-Script.git
 2. Make script executable and run
 ```bash
 chmod +x install_staxrip.sh
-./install:staxrip.sh
+./install_staxrip.sh
 ```
 
 3. Run Staxrip from App Menu
