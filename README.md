@@ -4,6 +4,14 @@
 Linux script to install popular video encoding GUI [Staxrip](https://github.com/staxrip/staxrip) on Linux with the help of Wine.
 
 ## How to use?
+Prerequisites:
+Make sure you have Wine and winetricks installed. You can install them via your favourite package manager.
+
+Example:
+```bash
+sudo pacman -S wine winetricks
+```
+
 1. Clone this repo
 ```bash
 git clone https://github.com/Cope4UrR1ghts/Staxrip-Wine-Installation-Script.git
